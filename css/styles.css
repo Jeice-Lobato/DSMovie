@@ -19,7 +19,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 html, body {
-    background-color: var(--white);
+    background-color: var(--bg-gray)
     
 }
 
@@ -65,7 +65,7 @@ a, a:hover {
 
 
 .dsmovie-card {
-    width: 360px;
+    width: 280px;
 }
 
 .dsmovie-card img {
@@ -83,16 +83,16 @@ a, a:hover {
 }
 
 .dsmovie-card-description h3 {
-    font-size: 14px;
+    font-size: 20px;
     font-weight: 700;
-    margin-bottom: 25px;
+    margin-bottom: 10px;
 }
 
 .dsmovie-btn, .dsmovie-btn:hover {
     width: 180px;
     height: 40px;
     background-color: var(--color-primary);
-    color: var(white);
+    color: var(--white);
     font-size: 14px;
     font-weight: 700;
     display: flex;
