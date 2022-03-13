@@ -100,3 +100,8 @@ a, a:hover {
     justify-content: center;
     border-radius: 4px;
 }
+
+.dsmovie-form-container {
+    padding: 40px;
+    max-width: 480px;
+}
